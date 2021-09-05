@@ -1,7 +1,9 @@
+这是talebook/calibre-webserver项目的克隆版本，由于原作者没有构建arm版本的docker镜像，故克隆一个使用workflow自动构建不同架构的docker镜像
+
 
 简单好用的图书管理系统
 
-原作者没有构建arm版本的docker镜像，故构建一个
+
 
 ===================
 这是一个基于Calibre的简单的图书管理系统，支持**在线阅读**。主要特点是：

@@ -1,12 +1,8 @@
-My Calibre WebServer
-====================
-A better online books library management website built on Calibre + Vue
-
-See a running instance of demo:
-
-https://demo.talebook.org
 
 简单好用的图书管理系统
+
+原作者没有构建arm版本的docker镜像，故构建一个
+
 ===================
 这是一个基于Calibre的简单的图书管理系统，支持**在线阅读**。主要特点是：
 * 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
